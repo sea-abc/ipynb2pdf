@@ -1,0 +1,8 @@
+# Jupyter Notebook 到 PDF 转换工具依赖
+nbformat
+nbconvert
+playwright
+pandas
+jupyter
+matplotlib
+seaborn
